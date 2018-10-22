@@ -1,4 +1,4 @@
-# BrownSteinGroupSubmission
+# BrownSteinGroupSubmission for Junior Front End Developer position
 A website created from a mock up of a PSD file using HTML, CSS and Javascript provided by Will Murdoch.
 
 Image carousel with slider effect has been placed at the top of the page.
