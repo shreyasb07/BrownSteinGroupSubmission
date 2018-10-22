@@ -1,0 +1,30 @@
+Garces Landing Page Instructions
+
+OVERALL:
+- Try to match the design as closely as possible
+- Font in the design is Myriad Pro, bonus points if you want to add a webfont
+- Links can be placeholders, use whatever you want, or nothing (as long as they are still anchor tags)
+- There is no mobile design, I'm sad too. Use your best judgement for responsiveness, we have to do this more often than not
+- We like animations. Feel free to add them where you think they would look nice.
+- All images were rasterized to make the PSD a reasonable download for you. The doc is only 1400px wide, so if images are blurry at larger resolutions don't worry about it
+- When complete, push the site to Github (public is fine) and send a link to wmurdoch@brownsteingroup.com + mhegarty@brownsteingroup.com
+
+NAVIGATION:
+- Nav items should have hover state matching active element (red with a red stroke above)
+- Take any approach you want to the mobile nav, no design provided
+
+HEADER:
+- Carousel of 4 images, each is in a folder labeled image 1-4
+- Count in slide navigation should match the active slide
+- Should transition between frames, cross-fade is fine but bonus points for creativity
+
+ORANGE INTRO/GRID:
+- For consistency, the 3-across grid should become a single column with text first, then image on mobile. This is to match the headshot section above it
+
+RED TWITTER FEED:
+- Match the overall section layout, but the Twitter feed itself can look however you want, was used for placement only in design
+
+FOOTER:
+- All info should still be available on mobile
+- Link the address to a Google map
+- Mailing list should drive here https://us12.list-manage.com/subscribe?u=cc665980d764a22988bd828e7&id=31a071b5d3
